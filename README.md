@@ -1,5 +1,5 @@
 ## Welcome to my page👋
-## A front-end developer🎨
+## Just a front-end developer🎨
 <!--
 **Dou-D/DOU-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
