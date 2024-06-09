@@ -1,6 +1,4 @@
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Dou-D/toy-element,Dou-D/v3-oj,Dou-D/koa-demo,Dou-D/demo-web&type=Timeline)](https://star-history.com/#Dou-D/toy-element&Dou-D/v3-oj&Dou-D/koa-demo&Dou-D/demo-web&Timeline)
 <!--
 **Dou-D/DOU-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
