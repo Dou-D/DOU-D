@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./typescript.svg" width=92 />
   <img src="./react.svg" width=92 />
-  <img src="./vue.svg" width=92 />
-  <img src="./tailwindcss.svg" width=92 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width=92 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=92 />
 </div>
